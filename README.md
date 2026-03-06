@@ -70,5 +70,11 @@ The final trained model is used to predict the income category for a new individ
 - GraphViz
 - Jupyter Notebook
 
-## Repository Structure
-CA03
+## How to Run
+1. Clone or download this repository.
+2. Open the notebook in Jupyter Notebook or Google Colab.
+3. Run all cells sequentially.
+4. The notebook will perform data analysis, train the decision tree model, tune hyperparameters, and visualize the final tree.
+
+## Purpose of the Assignment
+The purpose of this assignment is to understand how decision tree models work, how to evaluate classification performance, and how hyperparameter tuning affects model accuracy.
